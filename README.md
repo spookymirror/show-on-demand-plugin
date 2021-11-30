@@ -3,7 +3,7 @@ This is a Falcon Player (fpp) plugin that allows you to run your show in "On-Dem
 
 ## Installation
 In fpp, go to Content Setup, Plugin Manager and paste the following URL in the box and click "Retrieve Plugin Info":
-`https://raw.githubusercontent.com/joeharrison714/show-on-demand-plugin/master/pluginInfo.json`
+`https://raw.githubusercontent.com/spookymirror/show-on-demand-plugin/master/pluginInfo.json`
 
 ## Motivation
 Traffic to my display is fairly light in early December, and for some unknown reason I just don’t like the idea of my show continuously running on a loop when no one is out there watching. So I wanted to create a simple and easy way to have a basic sequence running but allow people to start the show when they are ready.
