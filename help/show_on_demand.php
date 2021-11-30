@@ -38,6 +38,6 @@
 
 <h2>More Info</h2>
 <ul>
-<li><a href="https://github.com/joeharrison714/show-on-demand-plugin">More info</a></li>
-<li><a href="https://github.com/joeharrison714/show-on-demand-plugin/issues">Bug report/Feature request</a></li>
+<li><a href="https://github.com/spookymirror/show-on-demand-plugin">More info</a></li>
+<li><a href="https://github.com/spookymirror/show-on-demand-plugin/issues">Bug report/Feature request</a></li>
 </ul>
