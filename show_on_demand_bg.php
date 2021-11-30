@@ -108,7 +108,7 @@ if($sodEnabled == 1) {
         }
 
         logEntry("Sleeping");
-        sleep(20);
+        sleep(10);
     }
 }else {
     logEntry("Show On Demand Plugin is disabled");
