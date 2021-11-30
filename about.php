@@ -8,8 +8,8 @@
 		<br />
         Joe Harrison (joeharrison714)<br />
 		<br />
-        <a href='https://github.com/joeharrison714/show-on-demand-plugin'>Git Repository</a><br>
-        <a href='https://github.com/joeharrison714/show-on-demand-plugin/issues'>Bug Reporter</a><br>
+        <a href='https://github.com/spookymirror/show-on-demand-plugin'>Git Repository</a><br>
+        <a href='https://github.com/spookymirror/show-on-demand-plugin/issues'>Bug Reporter</a><br>
 		<br />
       </div>
     </div>
