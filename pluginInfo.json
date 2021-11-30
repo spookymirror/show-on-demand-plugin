@@ -1,6 +1,6 @@
 {
-	"repoName": "show-on-demand",
-	"name": "Show On Demand",
+	"repoName": "show-on-demand-twilio",
+	"name": "Show On Demand Twilio",
 	"author": "Spooky Mirror (spookymirror)",
 	"description": "This allows the show to be started on demand via text message",
 	"homeURL": "https://github.com/spookymirror/show-on-demand-plugin",
